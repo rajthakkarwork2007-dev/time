@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Raj", "phone": "9876543210", "verified": false },
+  { "id": 2, "name": "Sneha", "phone": "9123456789", "verified": false }
+]
